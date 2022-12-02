@@ -1,4 +1,4 @@
 # SolarSystem
-Test Repository to learn github
+Test repository to learn github
 
 Hello, Planets!
